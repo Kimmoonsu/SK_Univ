@@ -1,22 +1,14 @@
 이름 : 김문수
 
-소속 : 서경대학교
+소속 : 서경대학교 컴퓨터과학과, SoftWare Maestro 7th
 
-JSP와 AJAX을 이용하여 개발한 Web Site 입니다.
+본 repository는 서경대학교 컴퓨터과학과에서 term_project를 통하여 만든 프로그램들입니다.
 
-Application Name : Online Meeting Group
+프로그램들의 시연 동영상은
 
-웹사이트에서 온라인 회의를 가능하게 해주는 웹사이트입니다.
+https://drive.google.com/folderview?id=0B6utaWHBJCMkaWNSd3NfWDRiRnM&usp=sharing
 
-회의 시간과 사람들을 초대하고, 정해진 시간이 되면 자동적으로 회의가 시작됩니다.
-
-회의 내용이 저장되며, 사용자의 리스트가 보여집니다.
-
-
-개발 환경 : Windows 10, Eclipse Mars, JDK8, Tomcat7
-
-개발 언어 : JAVA, JSP, JavaScript, CSS, JQuery
-
+위 url에서 확인 가능합니다.
 
 
 
