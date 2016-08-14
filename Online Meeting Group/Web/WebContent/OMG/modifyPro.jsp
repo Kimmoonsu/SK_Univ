@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ page import = "ac.kr.skuniv.db.ConnectDB" %>
+
+<% request.setCharacterEncoding("utf-8");%>
+<%-- 7~9라인: 수정된 정보를 가지고 데이터저장빈객체를 생성--%>
+<jsp:useBean id="member" class="ac.kr.skuniv.db.DataModel">
+    <jsp:setProperty name="member" property="*" />
+</jsp:useBean>
+
+<%  
+  ConnectDB connectDB= ConnectDB.getConnectDB();
+  //회원정보 수정 처리 메소드 호출 후 수정 상황값 반환
+  
+  int check = connectDB.updateMember(member);
+    
+  out.println(check);
+ %>
