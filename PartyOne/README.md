@@ -2,7 +2,7 @@
 
 소속 : 서경대학교
 
-Spinrg을 이용하여 개발한 Web Site 입니다.
+Spring을 이용하여 개발한 Web Site 입니다.
 
 Application Name : PartyOne
 
