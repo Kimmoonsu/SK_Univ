@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<bean id="urlMappingWithControllers" class="org.springframework.web.servlet.mvc.support.ControllerClassNameHandlerMapping" p:alwaysUseFullPath="true" p:order="0"/>
+	<bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver" p:viewClass="org.springframework.web.servlet.view.JstlView" p:prefix="/" p:suffix=".jsp"/>
+	<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+		<property name="driverClassName"><value>com.mysql.jdbc.Driver</value></property>
+		<property name="url"><value>jdbc:mysql://localhost/partyone?useUnicode=yes&amp;characterEncoding=UTF-8&amp;"</value></property>
+		<property name="username"><value>root</value></property>
+		<property name="password"><value>1234</value></property>
+	</bean>
+	
+	<!-- Controller -->
+	<bean name="context" id="contextController" class="controller.ContextController">
+		<property name="contextDao"><ref bean="contextDao"/></property>
+	</bean>
+	<bean name="user" id="userController" class="controller.UserController">
+		<property name="contextDao"><ref bean="contextDao"/></property>
+	</bean>
+	<bean name="delete" id="deleteController" class="controller.DeleteController">
+		<property name="formDao"><ref bean="formDao"/></property>
+		<property name="contextDao"><ref bean="contextDao"/></property>
+	</bean>
+	<bean name="detail" id="detailController" class="controller.DetailController">
+		<property name="detailDao"><ref bean="detailDao"/></property>
+	</bean>
+	<bean name="find" id="findController" class="controller.FindController">
+  		<property name="findDao" ref="findDao"></property>
+	</bean>
+	<bean name="form" id="formController" class="controller.FormController">
+		<property name="formDao"><ref bean="formDao"/></property>
+		<property name="contextDao"><ref bean="contextDao"/></property>
+	</bean>
+	<bean name="update" id="updateController" class="controller.UpdateController">
+		<property name="formDao"><ref bean="formDao"/></property>
+		<property name="contextDao"><ref bean="contextDao"/></property>
+	</bean>
+	<bean name="hello" class="controller.HelloController"/>
+	
+	<!--****************************************************  -->
+	
+	
+	<!-- Bean -->
+	<bean id="contextDao" class="dao.impl.ContextDaoImpl">
+      <property name="dataSource" ref="dataSource"></property>
+   </bean>
+   <bean id="formDao" class="dao.impl.FormDaoImpl">
+      <property name="dataSource" ref="dataSource"></property>
+   </bean>
+   <bean id="findDao" class="dao.impl.FindDaoImpl">
+	      <property name="dataSource" ref="dataSource"></property>
+	   </bean>
+	   <bean id="detailDao" class="dao.impl.DetailDaoImpl">
+	      <property name="dataSource" ref="dataSource"></property>
+	   </bean>
+	<!--****************************************************  -->
+
+</beans>
+

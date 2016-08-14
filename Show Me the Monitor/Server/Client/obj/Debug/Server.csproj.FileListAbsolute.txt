@@ -1,0 +1,128 @@
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.Diagnostics.dll
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.DirectDraw.dll
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.DirectPlay.dll
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.dll
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.xml
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.Diagnostics.xml
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.DirectDraw.xml
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\moonsu\Desktop\Client\Client\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\moonsu\Desktop\Client\Client\obj\Debug\Interop.DXTMSFTLib.dll
+C:\Users\moonsu\Desktop\Client\Client\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\moonsu\Desktop\Client\Client\obj\Debug\Server.csproj.ResolveComReference.cache
+C:\Users\moonsu\Desktop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\moonsu\Desktop\Client\Client\obj\Debug\Client.VoiceChat.resources
+C:\Users\moonsu\Desktop\Client\Client\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\moonsu\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\moonsu\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\moonsu\Desktop\Client\Client\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\moonsu\Desktop\Client\Client\obj\Debug\Client.Model.resources
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Client.exe.config
+C:\Users\moonsu\Desktop\Server\Client\obj\Debug\Interop.DXTMSFTLib.dll
+C:\Users\moonsu\Desktop\Server\Client\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\moonsu\Desktop\Server\Client\obj\Debug\Server.csproj.ResolveComReference.cache
+C:\Users\moonsu\Desktop\Server\Client\obj\Debug\Client.exe
+C:\Users\moonsu\Desktop\Server\Client\obj\Debug\Client.pdb
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Client.exe
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Client.pdb
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.xml
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.Diagnostics.xml
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.DirectDraw.xml
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\moonsu\Desktop\Server\Client\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\moonsu\Desktop\Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\moonsu\Desktop\Server\Client\obj\Debug\Client.VoiceChat.resources
+C:\Users\moonsu\Desktop\Server\Client\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\moonsu\Desktop\Server\Client\obj\Debug\Client.Form1.resources
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Client.exe.config
+C:\Users\moonsu\Desktop\Server (1)\Client\obj\Debug\Interop.DXTMSFTLib.dll
+C:\Users\moonsu\Desktop\Server (1)\Client\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\moonsu\Desktop\Server (1)\Client\obj\Debug\Server.csproj.ResolveComReference.cache
+C:\Users\moonsu\Desktop\Server (1)\Client\obj\Debug\Client.exe
+C:\Users\moonsu\Desktop\Server (1)\Client\obj\Debug\Client.pdb
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Client.exe
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Client.pdb
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.Diagnostics.dll
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.DirectDraw.dll
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.DirectPlay.dll
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.dll
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.xml
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.Diagnostics.xml
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.DirectDraw.xml
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\moonsu\Desktop\Server (1)\Client\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\moonsu\Desktop\Server (1)\Client\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\moonsu\Desktop\Server (1)\Client\obj\Debug\Client.Form1.resources
+C:\Users\moonsu\Desktop\Server (1)\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\moonsu\Desktop\Server (1)\Client\obj\Debug\Client.VoiceChat.resources
+C:\Users\moonsu\Desktop\Server (1)\Client\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.Diagnostics.dll
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.DirectDraw.dll
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.DirectPlay.dll
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.DirectX.dll
+C:\Users\moonsu\Desktop\Server\Client\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Client.exe.config
+D:\!학교\4학년 1학기\캡스톤\Server\Client\obj\Debug\Interop.DXTMSFTLib.dll
+D:\!학교\4학년 1학기\캡스톤\Server\Client\obj\Debug\Interop.DXTRANSLib.dll
+D:\!학교\4학년 1학기\캡스톤\Server\Client\obj\Debug\Server.csproj.ResolveComReference.cache
+D:\!학교\4학년 1학기\캡스톤\Server\Client\obj\Debug\Client.exe
+D:\!학교\4학년 1학기\캡스톤\Server\Client\obj\Debug\Client.pdb
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Client.exe
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Client.pdb
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.Diagnostics.dll
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.DirectDraw.dll
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.DirectInput.dll
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.DirectPlay.dll
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.DirectSound.dll
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.dll
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.xml
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.Diagnostics.xml
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.DirectDraw.xml
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.DirectInput.xml
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+D:\!학교\4학년 1학기\캡스톤\Server\Client\bin\Debug\Microsoft.DirectX.DirectSound.xml
+D:\!학교\4학년 1학기\캡스톤\Server\Client\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\!학교\4학년 1학기\캡스톤\Server\Client\obj\Debug\Client.Form1.resources
+D:\!학교\4학년 1학기\캡스톤\Server\Client\obj\Debug\Client.Properties.Resources.resources
+D:\!학교\4학년 1학기\캡스톤\Server\Client\obj\Debug\Client.VoiceChat.resources
+D:\!학교\4학년 1학기\캡스톤\Server\Client\obj\Debug\Server.csproj.GenerateResource.Cache
